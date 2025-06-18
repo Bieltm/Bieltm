@@ -6,7 +6,7 @@
 Nowadays, I'm an 18 years old student of Computer Engineering, and I'm excited to continue discovering new things about this world.</p>
     <h2>My skillset:</h2>
     <div class="skills">
-        <img src="java.png" alt="Java" width = "100" height = "100">
+        <img src="java.png" alt="Java" width = "70" height = "100">
         <img src="c.png" alt="C" width = "100" height = "100">
         <img src="python.png" alt="Python" width = "100" height = "100">
     </div>
