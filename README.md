@@ -1,17 +1,7 @@
 <!DOCTYPE html>
 <html lang="ca">
 <head>
-    <style>
-        .skills {
-            display: flex;
-            gap: 20px;
-            margin-top: 10px;
-        }
-        .skills img {
-            height: 100px;
-            width: 100px;
-        }
-    </style>
+    
 </head>
 <body>
     <h1>Hey! I'm Biel Torruella</h1>
