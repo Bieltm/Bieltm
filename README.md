@@ -19,7 +19,7 @@
 Nowadays, I'm an 18 years old student of Computer Engineering, and I'm excited to continue discovering new things about this world.</p>
     <h2>My skills:</h2>
     <div class="skills">
-        <img src="java.png" alt="Java" width = "300" height = "300">
+        <img src="java.png" alt="Java" width = "300" height = "200">
         <img src="c.png" alt="C" width = "300" height = "300">
         <img src="python.png" alt="Python" width = "300" height = "300">
     </div>
