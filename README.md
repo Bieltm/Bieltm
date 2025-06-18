@@ -1,19 +1,5 @@
 <!DOCTYPE html>
 <html lang="ca">
-<head>
-  <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Presentació - El Meu GitHub</title>
-  <style>
-    body {
-      font-family: Arial, sans-serif;
-      background-color: #f3f3f3;
-      color: #333;
-      margin: 0;
-      padding: 20px;
-    }
-  </style>
-</head>
 <body>
   <div class="container">
     <img src="https://via.placeholder.com/150" alt="Foto de perfil" class="photo">
