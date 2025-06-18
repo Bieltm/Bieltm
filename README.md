@@ -12,34 +12,6 @@
       margin: 0;
       padding: 20px;
     }
-
-    .container {
-      max-width: 800px;
-      margin: auto;
-      background-color: #fff;
-      padding: 30px;
-      border-radius: 10px;
-      box-shadow: 0 0 10px rgba(0,0,0,0.1);
-    }
-
-    h1 {
-      color: #007acc;
-    }
-
-    a {
-      color: #007acc;
-      text-decoration: none;
-    }
-
-    a:hover {
-      text-decoration: underline;
-    }
-
-    .photo {
-      width: 150px;
-      border-radius: 50%;
-      margin-bottom: 20px;
-    }
   </style>
 </head>
 <body>
