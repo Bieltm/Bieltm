@@ -7,5 +7,6 @@ Nowadays, I'm an 18 years old student of Computer Engineering, and I'm excited t
     <h2>These are languages I actually know:</h2>
     <img src="java.png" alt="Java" heigth = "100" width = "100">
     <img src="c.png" alt="C" heigth = "100" width = "100">
+    <img src="python.png" alt="Python" heigth = "100" width = "100">
 </body>
 </html>
