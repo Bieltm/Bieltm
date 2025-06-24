@@ -1,11 +1,7 @@
 <!DOCTYPE html>
 <html lang="ca">
 <head>
-    <style type="text/css">
-        body{
-            font-family: Arial, Helvetica, sans-serif;
-        }
-    </style>
+    Biel Torruella
 </head>
 <body>
     <h1>Hey! I'm Biel Torruella</h1>
