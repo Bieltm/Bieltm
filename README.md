@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html lang="ca">
 <head>
-    Biel Torruella
+    My introduction
 </head>
 <body>
     <h1>Hey! I'm Biel Torruella</h1>
