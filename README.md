@@ -12,7 +12,7 @@ Nowadays, I'm an 18 years old student of Computer Engineering, and I'm excited t
         <img src='https://cdn.pixabay.com/photo/2017/01/31/15/33/linux-2025130_1280.png' alt="Linux" width = "100" height = "100">
         <img src='https://icones.pro/wp-content/uploads/2021/05/icone-html-orange.png' alt="HMTL" width = "100" height="100">
         <img src='https://raw.githubusercontent.com/github/explore/6c6508f34230f0ac0d49e847a326429eefbfc030/topics/css/css.png' alt="CSS" width="100" height="100">
-        <img src='[https://e7.pngegg.com/pngimages/793/545/png-clipart-javascript-logo-computer-icons-vue-js-angle-text.png](https://static.vecteezy.com/system/resources/previews/027/127/463/non_2x/javascript-logo-javascript-icon-transparent-free-png.png)' alt="JS" width="100" height="100">
+        <img src='https://img.icons8.com/?size=512&id=108784&format=png' alt="JS" width="100" height="100">
     </div>
 </body>
 </html>
