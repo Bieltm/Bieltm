@@ -10,6 +10,7 @@ Nowadays, I'm an 18 years old student of Computer Engineering, and I'm excited t
         <img src="c.png" alt="C" width = "100" height = "100">
         <img src='https://cdn.pixabay.com/photo/2024/03/31/02/11/python-8665904_1280.png' alt="Python" width = "100" height = "100">
         <img src='https://cdn.pixabay.com/photo/2017/01/31/15/33/linux-2025130_1280.png' alt="Linux" width = "100" height = "100">
+        <img src='https://icones.pro/wp-content/uploads/2021/05/icone-html-orange.png' alt="HMTL" width = "100" height="100">
     </div>
 </body>
 </html>
