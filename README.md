@@ -5,7 +5,7 @@
     <p>When I was 11 years old, a teacher taught me Scratch, and I started to make my own games, this made me to get interested in how games worked internally, watching a lot of videos about it, then I became interested in how other projects like web pages worked, etc. and step by step it made me passionate about the world of computing.</p>
     <p>At 18 years old I started my Computer Engineering degree and began to practice with some languages like C, Java and Assembler, by my way I learned how to create a web page by learning HTML, CSS and JavaScript.
 I also learned some other technologies, such as Python.</p>
-    <h2>My skillset:</h2>
+    <h2>My Skillset:</h2>
     <div class="skills">
         <img src='https://blog.desafiolatam.com/wp-content/uploads/2018/05/java-logo.png' alt="Java" width = "100" height = "100">
         <img src='https://upload.wikimedia.org/wikipedia/commons/1/19/C_Logo.png' alt="C" width = "70" height = "100">
