@@ -2,7 +2,7 @@
 <html lang="ca">
 <body>
     <h1>Hey! I'm Biel Torruella</h1>
-    <p>When I was 11 years old, a teacher taught me Scratch, and I started to make my own games, this made me to get interested in how games worked internally, watching a lot of videos about it, then I became interested in how other projects like web pages worked, etc. and step by step it made me passionate about the world of computing.</p>
+    <p>Since I was very young, I loved playing video games with my computer. When I was 11 years old, a teacher taught me Scratch, and I started to make my own. This made me to get interested in how they worked internally, leading me to watch a lot of videos about it, then I became interested in how other projects like web pages worked, etc. and step by step, it made me passionate about the world of computing.</p>
     <p>At 17 years old I started my Computer Engineering degree and began to practice with some languages like C, Java, Python and Assembler, by my way I learned how to create a web page by learning HTML, CSS and JavaScript.</p>
     <p>Nowadays I'm really interested in learning about Cybersecurity and IA.</p>
     <h2>My Skillset:</h2>
