@@ -2,9 +2,8 @@
 <html lang="ca">
 <body>
     <h1>Hey! I'm Biel Torruella</h1>
-    <p>Since I was very young, I loved playing video games with my computer. When I was 11 years old, a teacher taught me Scratch, and I started to make my own. This made me to get interested in how they worked internally, leading me to watch a lot of videos about it, then I became interested in how other projects like web pages worked, etc. and step by step, it made me passionate about the world of computing.</p>
-    <p>At 17 years old I started my Computer Engineering degree and began to practice with some languages like C, Java, Python and Assembler, by my way I learned how to create a web page by learning HTML, CSS and JavaScript.</p>
-    <p>Nowadays I'm really interested in learning about Cybersecurity and IA.</p>
+    <p>My intellectual journey began with a deep appreciation for mathematics, which I cherished as my favorite school subject for its clear logic and beautiful structure. This foundation found its practical application when my fascination with video games evolved into a passion for informatics, leading me to explore various projects like web development. Pursuing Computer Engineering now allows me to formally merge these two great loves, utilizing rigorous mathematical principles to build and innovate in the digital space. My ultimate career ambition is to work in a role that continually challenges me to combine the structure of math with the creativity of computing.
+Nowadays, I'm a Computer Engineer Student, and my ultimate career ambition is to apply this fusion in highly specialized roles, such as an AI Engineer, Cryptographer, or Mathematical Researcher, where logic and computation converge.</p>
     <h2>My Skillset:</h2>
     <div class="skills">
         <img src='https://blog.desafiolatam.com/wp-content/uploads/2018/05/java-logo.png' alt="Java" width = "100" height = "100">
