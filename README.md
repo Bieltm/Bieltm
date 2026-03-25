@@ -2,8 +2,8 @@
 <html lang="ca">
 <body>
     <h1>Hey! I'm Biel Torruella</h1>
-    <p>My intellectual journey began with a deep appreciation for mathematics, which I cherished as my favorite school subject for its clear logic and beautiful structure. This foundation found its practical application when my fascination with video games evolved into a passion for informatics, leading me to explore various projects like web development. Pursuing Computer Engineering now allows me to formally merge these two great loves, utilizing rigorous mathematical principles to build and innovate in the digital space. My ultimate career ambition is to work in a role that continually challenges me to combine the structure of math with the creativity of computing.
-Nowadays, I'm a Computer Engineer Student, and my ultimate career ambition is to apply this fusion in highly specialized roles, such as an AI Engineer, Cryptographer, or Mathematical Researcher, where logic and computation converge.</p>
+    <p>My passion for technology and mathematics has been a constant throughout my life. Driven by curiosity, I started programming as a self-taught developer creating video games with Game Maker Studio—an experience that solidified my decision to pursue a degree in Computer Engineering.
+Currently, I am steering my career towards Artificial Intelligence and Data Science. I find that these fields offer the perfect blend of technical challenges and mathematical foundations, driving my motivation to continuously learn and innovate.</p>
     <h2>My Skillset:</h2>
     <div class="skills">
         <img src='https://blog.desafiolatam.com/wp-content/uploads/2018/05/java-logo.png' alt="Java" width = "100" height = "100">
