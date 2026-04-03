@@ -13,7 +13,7 @@ Currently, I am steering my career towards Artificial Intelligence and Data Scie
         <img src='https://icones.pro/wp-content/uploads/2021/05/icone-html-orange.png' alt="HMTL" width = "100" height="100">
         <img src='https://raw.githubusercontent.com/github/explore/6c6508f34230f0ac0d49e847a326429eefbfc030/topics/css/css.png' alt="CSS" width="100" height="100">
         <img src='https://img.icons8.com/?size=512&id=108784&format=png' alt="JS" width="100" height="100">
-        <img src='[https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQu997hLLmNANrSia1J1H6tTMwZLTypMo0v5A&s](https://upload.wikimedia.org/wikipedia/commons/8/87/Sql_data_base_with_logo.png)' alt="SQL" width="100" height="100">
+        <img src='https://images.seeklogo.com/logo-png/43/2/azure-sql-logo-png_seeklogo-434048.png' alt="SQL" width="100" height="100">
     </div>
 </body>
 </html>
